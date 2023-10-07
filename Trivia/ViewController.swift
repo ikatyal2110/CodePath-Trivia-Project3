@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var Answer1: UIButton!
     @IBOutlet weak var answerButton2: UIButton!
     @IBOutlet weak var answerButton3: UIButton!
-    @IBOutlet weak var answerButton4: UIButton!
+    @IBOutlet weak var Answer4: UIButton!
     
     struct Question {
         let questionText: String
