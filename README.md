@@ -4,7 +4,7 @@ Submitted by: **Ishaan Katyal**
 
 **Trivia** is an app that has questions, and it allows you to choose your answers based on the question provided. 
 
-Time spent: **1.5** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## Required Features
 
@@ -28,13 +28,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a lot of issues with this project. Even after trying to resolve them all on my own, I was unsuccessful. I contacted my group tech fellow as well as the help channel on the slack but didn't receive any help. That being said, I will work harder on the next project. 
 
 ## License
 
